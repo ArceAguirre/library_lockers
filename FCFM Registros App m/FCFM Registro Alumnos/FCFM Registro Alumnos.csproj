@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{335E5344-B0A4-4987-AD90-542E1629E0DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FCFM_Registro_Alumnos</RootNamespace>
+    <AssemblyName>FCFM Registro Alumnos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>FCFM_Registro_Alumnos.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transitions">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\Transitions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataTables.cs" />
+    <Compile Include="Encrypting.cs" />
+    <Compile Include="ListViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListViewManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlDataEdition.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlDataEdition.Designer.cs">
+      <DependentUpon>pnlDataEdition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlAdvancedSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlAdvancedSettings.Designer.cs">
+      <DependentUpon>pnlAdvancedSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlData.Designer.cs">
+      <DependentUpon>pnlData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlCheckInOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlCheckInOut.Designer.cs">
+      <DependentUpon>pnlCheckInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlNotifications.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlNotifications.Designer.cs">
+      <DependentUpon>pnlNotifications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlSettings.Designer.cs">
+      <DependentUpon>pnlSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\pnlSlider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panels\pnlSlider.Designer.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\ControlHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\ControlHoras.Designer.cs">
+      <DependentUpon>ControlHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\Notificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\Notificaciones.Designer.cs">
+      <DependentUpon>Notificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\RegistroHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\RegistroHoras.Designer.cs">
+      <DependentUpon>RegistroHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\HorarioAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\HorarioAlumno.Designer.cs">
+      <DependentUpon>HorarioAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Forms\DatosGenerales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\DatosGenerales.Designer.cs">
+      <DependentUpon>DatosGenerales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RptHoras.Designer.cs">
+      <DependentUpon>RptHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RptAlumnos.Designer.cs">
+      <DependentUpon>RptAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RptHorarios.Designer.cs">
+      <DependentUpon>RptHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RptHorasTotales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\RptHorasTotales.Designer.cs">
+      <DependentUpon>RptHorasTotales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Forms\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Panels\pnlDataEdition.resx">
+      <DependentUpon>pnlDataEdition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlAdvancedSettings.resx">
+      <DependentUpon>pnlAdvancedSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlData.resx">
+      <DependentUpon>pnlData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlCheckInOut.resx">
+      <DependentUpon>pnlCheckInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlNotifications.resx">
+      <DependentUpon>pnlNotifications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlSettings.resx">
+      <DependentUpon>pnlSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\pnlSlider.resx" />
+    <EmbeddedResource Include="Reports\Report5.rdlc" />
+    <EmbeddedResource Include="UI Forms\ControlHoras.resx">
+      <DependentUpon>ControlHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\Notificaciones.resx">
+      <DependentUpon>Notificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\RegistroHoras.resx">
+      <DependentUpon>RegistroHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\HorarioAlumno.resx">
+      <DependentUpon>HorarioAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Forms\DatosGenerales.resx">
+      <DependentUpon>DatosGenerales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptHoras.resx">
+      <DependentUpon>RptHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptAlumnos.resx">
+      <DependentUpon>RptAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptHorarios.resx">
+      <DependentUpon>RptHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptHorasTotales.resx">
+      <DependentUpon>RptHorasTotales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report1.rdlc" />
+    <EmbeddedResource Include="Reports\Report2.rdlc" />
+    <EmbeddedResource Include="Reports\Report3.rdlc" />
+    <EmbeddedResource Include="UI Forms\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="locker.ico" />
+    <Content Include="Resources\Notifications.png" />
+    <Content Include="Resources\Notifications2.png" />
+    <Content Include="Resources\Notifications2NotFocus.png" />
+    <Content Include="Resources\Notifications3.png" />
+    <Content Include="Resources\Notifications4.png" />
+    <Content Include="Resources\NotificationsNotFocus.png" />
+    <Content Include="Resources\NotificationsRed.png" />
+    <Content Include="Resources\NotificationsRedNotFocus.png" />
+    <None Include="Resources\NotificationsYellow.png" />
+    <None Include="Resources\NotificationsYellowNotFocus.png" />
+    <Content Include="Resources\Settings.png" />
+    <Content Include="Resources\SettingsNotFocus.png" />
+    <Content Include="Resources\warning39 %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

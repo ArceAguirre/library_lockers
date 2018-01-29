@@ -1,0 +1,501 @@
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form1.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form4.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form2.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form5.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form6.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form7.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form3.resources
+C:\Users\Tello\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form8.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form1.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form2.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form3.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form4.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form5.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form6.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form7.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form8.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\Biblio1\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form1.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form2.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form3.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form4.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form5.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form6.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form7.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Form8.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V3\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V5\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V6\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V7\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V8\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\josueaaron\Desktop\Registro B App V9\FCFM Registros App V2\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App 3\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App 4\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App FINAL\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Order.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\Panaderia\FCFM Registros App\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.dll
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Design.dll
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Transitions.dll
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Order.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.dll
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Transitions.dll
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlDataEdition.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlAdvancedSettings.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlData.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlCheckInOut.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\Darkkness\Desktop\BiblioEnhanced\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Design.dll
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.dll
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Fonts.dll
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Transitions.dll
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlDataEdition.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlAdvancedSettings.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlData.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlCheckInOut.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Program Files\Registro Biblioteca App\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+D:\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlDataEdition.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlAdvancedSettings.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlData.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlCheckInOut.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+D:\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Design.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Transitions.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlDataEdition.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlAdvancedSettings.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlData.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlCheckInOut.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled

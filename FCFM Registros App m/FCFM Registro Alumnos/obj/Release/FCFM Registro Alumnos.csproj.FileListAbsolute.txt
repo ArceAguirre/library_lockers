@@ -1,0 +1,41 @@
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.exe.config
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.exe
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.pdb
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form1.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form2.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form3.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form4.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form5.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form6.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form7.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Form8.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\RdlCompile.cache
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\RdlCompile.compiled
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.exe
+C:\FCFM Registro Alumnos\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.exe.config
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\bin\Release\FCFM Registro Alumnos.pdb
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\RdlCompile.cache
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\RdlCompile.compiled
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.exe
+C:\Users\drawm\Desktop\FCFM Registros App\FCFM Registro Alumnos\obj\Release\FCFM Registro Alumnos.pdb

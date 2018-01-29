@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="2" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.FCFM_Registro_Alumnos.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="FCFM_Registro_HorasConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="FCFM_Registro_HorasConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.FCFM_Registro_Alumnos.Properties.Settings.GlobalReference.Default.FCFM_Registro_HorasConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="FCFM_Registro_HorasConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="FCFM_Registro_HorasConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.FCFM_Registro_Alumnos.Properties.Settings.GlobalReference.Default.FCFM_Registro_HorasConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Registro_horasTableAdapter" GeneratorDataComponentClassName="Registro_horasTableAdapter" Name="Registro_horas" UserDataComponentName="Registro_horasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT
+	R.matricula, 
+	R.hora_e, 
+	R.fecha_e, 
+	R.hora_s, 
+	R.fecha_s, 
+	R.tipo_reg, 
+	A.nombre, 
+	A.ap_paterno, 
+	A.ap_materno
+FROM alumnos A INNER JOIN Registros R 
+ON R.matricula = A.matricula</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="matricula" DataSetColumn="matricula" />
+              <Mapping SourceColumn="fecha_e" DataSetColumn="fecha_e" />
+              <Mapping SourceColumn="fecha_s" DataSetColumn="fecha_s" />
+              <Mapping SourceColumn="tipo_reg" DataSetColumn="tipo_reg" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="ap_paterno" DataSetColumn="ap_paterno" />
+              <Mapping SourceColumn="ap_materno" DataSetColumn="ap_materno" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByRegistroHoras" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByRegistroHoras" GeneratorSourceName="FillByRegistroHoras" GetMethodModifier="Public" GetMethodName="GetDataByRegistroHoras" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByRegistroHoras" UserSourceName="FillByRegistroHoras">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT
+	R.matricula, 
+	R.hora_e, 
+	R.fecha_e, 
+	R.hora_s, 
+	R.fecha_s, 
+	R.tipo_reg, 
+	A.nombre, 
+	A.ap_paterno, 
+	A.ap_materno
+FROM alumnos A INNER JOIN Registros R 
+ON R.matricula = A.matricula
+WHERE R.matricula = @matricula</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="matricula" ColumnName="Matricula" DataSourceName="[FCFM Registro Horas].dbo.Registros" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="Matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="horariosTableAdapter" GeneratorDataComponentClassName="horariosTableAdapter" Name="horarios" UserDataComponentName="horariosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString1 (Settings)" DbObjectName="[FCFM Registro Horas].dbo.horarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [dbo].[horarios] ([matricula], [lunes_e], [lunes_s], [martes_e], [martes_s], [miercoles_e], [miercoles_s], [jueves_e], [jueves_s], [viernes_e], [viernes_s], [sabado_e], [sabado_s]) VALUES (@matricula, @lunes_e, @lunes_s, @martes_e, @martes_s, @miercoles_e, @miercoles_s, @jueves_e, @jueves_s, @viernes_e, @viernes_s, @sabado_e, @sabado_s)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@lunes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="lunes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@lunes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="lunes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@martes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="martes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@martes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="martes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@miercoles_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="miercoles_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@miercoles_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="miercoles_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@jueves_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="jueves_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@jueves_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="jueves_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@viernes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="viernes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@viernes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="viernes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@sabado_e" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="sabado_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@sabado_s" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="sabado_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT matricula, lunes_e, lunes_s, martes_e, martes_s, miercoles_e, miercoles_s, jueves_e, jueves_s, viernes_e, viernes_s, sabado_e, sabado_s FROM dbo.horarios</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="matricula" DataSetColumn="matricula" />
+              <Mapping SourceColumn="lunes_e" DataSetColumn="lunes_e" />
+              <Mapping SourceColumn="lunes_s" DataSetColumn="lunes_s" />
+              <Mapping SourceColumn="martes_e" DataSetColumn="martes_e" />
+              <Mapping SourceColumn="martes_s" DataSetColumn="martes_s" />
+              <Mapping SourceColumn="miercoles_e" DataSetColumn="miercoles_e" />
+              <Mapping SourceColumn="miercoles_s" DataSetColumn="miercoles_s" />
+              <Mapping SourceColumn="jueves_e" DataSetColumn="jueves_e" />
+              <Mapping SourceColumn="jueves_s" DataSetColumn="jueves_s" />
+              <Mapping SourceColumn="viernes_e" DataSetColumn="viernes_e" />
+              <Mapping SourceColumn="viernes_s" DataSetColumn="viernes_s" />
+              <Mapping SourceColumn="sabado_e" DataSetColumn="sabado_e" />
+              <Mapping SourceColumn="sabado_s" DataSetColumn="sabado_s" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString1 (Settings)" DbObjectName="[FCFM Registro Horas].dbo.horarios" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByHorarios" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByHorarios" GeneratorSourceName="FillByHorarios" GetMethodModifier="Public" GetMethodName="GetDataByHorarios" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByHorarios" UserSourceName="FillByHorarios">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT matricula, lunes_e, lunes_s, martes_e, martes_s, miercoles_e, miercoles_s, jueves_e, jueves_s, viernes_e, viernes_s, sabado_e, sabado_s FROM dbo.horarios</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString1 (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="InsertQueryHorarios" Modifier="Public" Name="InsertQueryHorarios" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="InsertQueryHorarios">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>INSERT INTO [dbo].[horarios] ([matricula], [lunes_e], [lunes_s], [martes_e], [martes_s], [miercoles_e], [miercoles_s], [jueves_e], [jueves_s], [viernes_e], [viernes_s], [sabado_e], [sabado_s]) VALUES (@matricula, @lunes_e, @lunes_s, @martes_e, @martes_s, @miercoles_e, @miercoles_s, @jueves_e, @jueves_s, @viernes_e, @viernes_s, @sabado_e, @sabado_s)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="matricula" ColumnName="matricula" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="lunes_e" ColumnName="lunes_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@lunes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="lunes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="lunes_s" ColumnName="lunes_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@lunes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="lunes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="martes_e" ColumnName="martes_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@martes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="martes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="martes_s" ColumnName="martes_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@martes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="martes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="miercoles_e" ColumnName="miercoles_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@miercoles_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="miercoles_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="miercoles_s" ColumnName="miercoles_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@miercoles_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="miercoles_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="jueves_e" ColumnName="jueves_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@jueves_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="jueves_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="jueves_s" ColumnName="jueves_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@jueves_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="jueves_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="viernes_e" ColumnName="viernes_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@viernes_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="viernes_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="viernes_s" ColumnName="viernes_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@viernes_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="viernes_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="sabado_e" ColumnName="sabado_e" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@sabado_e" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="sabado_e" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="sabado_s" ColumnName="sabado_s" DataSourceName="[FCFM Registro Horas].dbo.horarios" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@sabado_s" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="sabado_s" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="alumnosTableAdapter" GeneratorDataComponentClassName="alumnosTableAdapter" Name="alumnos" UserDataComponentName="alumnosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString (Settings)" DbObjectName="[FCFM Registro Horas].dbo.alumnos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM [dbo].[alumnos] WHERE (([matricula] = @Original_matricula) AND ((@IsNull_nombre = 1 AND [nombre] IS NULL) OR ([nombre] = @Original_nombre)) AND ((@IsNull_ap_paterno = 1 AND [ap_paterno] IS NULL) OR ([ap_paterno] = @Original_ap_paterno)) AND ((@IsNull_ap_materno = 1 AND [ap_materno] IS NULL) OR ([ap_materno] = @Original_ap_materno)) AND ((@IsNull_carrera = 1 AND [carrera] IS NULL) OR ([carrera] = @Original_carrera)) AND ((@IsNull_semestre = 1 AND [semestre] IS NULL) OR ([semestre] = @Original_semestre)) AND ((@IsNull_tipo_servicio = 1 AND [tipo_servicio] IS NULL) OR ([tipo_servicio] = @Original_tipo_servicio)) AND ((@IsNull_periodo = 1 AND [periodo] IS NULL) OR ([periodo] = @Original_periodo)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_matricula" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nombre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_nombre" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ap_paterno" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_ap_paterno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ap_materno" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_ap_materno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_carrera" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_carrera" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_tipo_servicio" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_tipo_servicio" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_periodo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_periodo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [dbo].[alumnos] ([matricula], [nombre], [ap_paterno], [ap_materno], [carrera], [semestre], [tipo_servicio], [periodo]) VALUES (@matricula, @nombre, @ap_paterno, @ap_materno, @carrera, @semestre, @tipo_servicio, @periodo);
+SELECT matricula, nombre, ap_paterno, ap_materno, carrera, semestre, tipo_servicio, periodo FROM alumnos WHERE (matricula = @matricula) ORDER BY tipo_servicio DESC</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@nombre" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ap_paterno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ap_materno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@carrera" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@tipo_servicio" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@periodo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT matricula, nombre, ap_paterno, ap_materno, carrera, semestre, tipo_servicio, periodo 
+FROM dbo.alumnos order by tipo_servicio desc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE [dbo].[alumnos] SET [matricula] = @matricula, [nombre] = @nombre, [ap_paterno] = @ap_paterno, [ap_materno] = @ap_materno, [carrera] = @carrera, [semestre] = @semestre, [tipo_servicio] = @tipo_servicio, [periodo] = @periodo WHERE (([matricula] = @Original_matricula) AND ((@IsNull_nombre = 1 AND [nombre] IS NULL) OR ([nombre] = @Original_nombre)) AND ((@IsNull_ap_paterno = 1 AND [ap_paterno] IS NULL) OR ([ap_paterno] = @Original_ap_paterno)) AND ((@IsNull_ap_materno = 1 AND [ap_materno] IS NULL) OR ([ap_materno] = @Original_ap_materno)) AND ((@IsNull_carrera = 1 AND [carrera] IS NULL) OR ([carrera] = @Original_carrera)) AND ((@IsNull_semestre = 1 AND [semestre] IS NULL) OR ([semestre] = @Original_semestre)) AND ((@IsNull_tipo_servicio = 1 AND [tipo_servicio] IS NULL) OR ([tipo_servicio] = @Original_tipo_servicio)) AND ((@IsNull_periodo = 1 AND [periodo] IS NULL) OR ([periodo] = @Original_periodo)));
+SELECT matricula, nombre, ap_paterno, ap_materno, carrera, semestre, tipo_servicio, periodo FROM alumnos WHERE (matricula = @matricula) ORDER BY tipo_servicio DESC</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@nombre" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ap_paterno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ap_materno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@carrera" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@tipo_servicio" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@periodo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_matricula" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_nombre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_nombre" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ap_paterno" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_ap_paterno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_paterno" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ap_materno" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_ap_materno" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ap_materno" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_carrera" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_carrera" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="carrera" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_semestre" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="semestre" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_tipo_servicio" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_tipo_servicio" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="tipo_servicio" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_periodo" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_periodo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="periodo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="matricula" DataSetColumn="matricula" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="ap_paterno" DataSetColumn="ap_paterno" />
+              <Mapping SourceColumn="ap_materno" DataSetColumn="ap_materno" />
+              <Mapping SourceColumn="carrera" DataSetColumn="carrera" />
+              <Mapping SourceColumn="semestre" DataSetColumn="semestre" />
+              <Mapping SourceColumn="tipo_servicio" DataSetColumn="tipo_servicio" />
+              <Mapping SourceColumn="periodo" DataSetColumn="periodo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="alumnos1TableAdapter" GeneratorDataComponentClassName="alumnos1TableAdapter" Name="alumnos1" UserDataComponentName="alumnos1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString (Settings)" DbObjectName="[FCFM Registro Horas].dbo.alumnos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        
+A.matricula, 
+A.nombre, 
+A.ap_paterno, 
+A.ap_materno, 
+A.tipo_servicio,
+CAST(SUM(DATEDIFF(MINUTE, R.hora_e, R.hora_s))AS float) / CAST(60 AS float) AS Expr1
+FROM alumnos A INNER JOIN Registros R 
+ON A.matricula = R.matricula
+WHERE (R.fecha_e &gt;= @fecha_min) AND (R.fecha_e &lt;= @fecha_max)
+GROUP BY A.matricula, A.nombre, A.ap_paterno, A.ap_materno, A.tipo_servicio
+ORDER BY A.tipo_servicio desc</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="fecha_min" ColumnName="Fecha_E" DataSourceName="[FCFM Registro Horas].dbo.Registros" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@fecha_min" Precision="0" ProviderType="Date" Scale="0" Size="3" SourceColumn="Fecha_E" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="fecha_max" ColumnName="Fecha_E" DataSourceName="[FCFM Registro Horas].dbo.Registros" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@fecha_max" Precision="0" ProviderType="Date" Scale="0" Size="3" SourceColumn="Fecha_E" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="matricula" DataSetColumn="matricula" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="ap_paterno" DataSetColumn="ap_paterno" />
+              <Mapping SourceColumn="ap_materno" DataSetColumn="ap_materno" />
+              <Mapping SourceColumn="tipo_servicio" DataSetColumn="tipo_servicio" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="FCFM_Registro_HorasConnectionString (Settings)" DbObjectName="[FCFM Registro Horas].dbo.alumnos" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByMatricula" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByMatricula" GeneratorSourceName="FillByMatricula" GetMethodModifier="Public" GetMethodName="GetDataByMatricula" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByMatricula" UserSourceName="FillByMatricula">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        
+A.matricula, 
+A.nombre, 
+A.ap_paterno, 
+A.ap_materno, 
+CAST(SUM(DATEDIFF(MINUTE, R.hora_e, R.hora_s))AS float) / CAST(60 AS float) AS Expr1
+FROM alumnos A INNER JOIN Registros R 
+ON A.matricula = @matricula
+WHERE (R.fecha_e &gt;= @fecha_min) AND (R.fecha_e &lt;= @fecha_max)
+GROUP BY A.matricula, A.nombre, A.ap_paterno, A.ap_materno
+</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="matricula" ColumnName="matricula" DataSourceName="[FCFM Registro Horas].dbo.alumnos" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@matricula" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="matricula" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="fecha_min" ColumnName="Fecha_E" DataSourceName="[FCFM Registro Horas].dbo.Registros" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@fecha_min" Precision="0" ProviderType="Date" Scale="0" Size="3" SourceColumn="Fecha_E" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="fecha_max" ColumnName="Fecha_E" DataSourceName="[FCFM Registro Horas].dbo.Registros" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@fecha_max" Precision="0" ProviderType="Date" Scale="0" Size="3" SourceColumn="Fecha_E" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msdata:EnforceConstraints="False" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Registro_horas" msprop:Generator_TableClassName="Registro_horasDataTable" msprop:Generator_TableVarName="tableRegistro_horas" msprop:Generator_RowChangedName="Registro_horasRowChanged" msprop:Generator_TablePropName="Registro_horas" msprop:Generator_RowDeletingName="Registro_horasRowDeleting" msprop:Generator_RowChangingName="Registro_horasRowChanging" msprop:Generator_RowEvHandlerName="Registro_horasRowChangeEventHandler" msprop:Generator_RowDeletedName="Registro_horasRowDeleted" msprop:Generator_RowClassName="Registro_horasRow" msprop:Generator_UserTableName="Registro_horas" msprop:Generator_RowEvArgName="Registro_horasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="matricula" msprop:Generator_ColumnVarNameInTable="columnmatricula" msprop:Generator_ColumnPropNameInRow="matricula" msprop:Generator_ColumnPropNameInTable="matriculaColumn" msprop:Generator_UserColumnName="matricula" type="xs:int" />
+              <xs:element name="hora_e" msprop:Generator_ColumnVarNameInTable="columnhora_e" msprop:Generator_ColumnPropNameInRow="hora_e" msprop:Generator_ColumnPropNameInTable="hora_eColumn" msprop:Generator_UserColumnName="hora_e" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_e" msprop:Generator_ColumnVarNameInTable="columnfecha_e" msprop:Generator_ColumnPropNameInRow="fecha_e" msprop:Generator_ColumnPropNameInTable="fecha_eColumn" msprop:Generator_UserColumnName="fecha_e" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="hora_s" msprop:Generator_ColumnVarNameInTable="columnhora_s" msprop:Generator_ColumnPropNameInRow="hora_s" msprop:Generator_ColumnPropNameInTable="hora_sColumn" msprop:Generator_UserColumnName="hora_s" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_s" msprop:Generator_ColumnVarNameInTable="columnfecha_s" msprop:Generator_ColumnPropNameInRow="fecha_s" msprop:Generator_ColumnPropNameInTable="fecha_sColumn" msprop:Generator_UserColumnName="fecha_s" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="tipo_reg" msprop:Generator_ColumnVarNameInTable="columntipo_reg" msprop:Generator_ColumnPropNameInRow="tipo_reg" msprop:Generator_ColumnPropNameInTable="tipo_regColumn" msprop:Generator_UserColumnName="tipo_reg" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_paterno" msprop:Generator_ColumnVarNameInTable="columnap_paterno" msprop:Generator_ColumnPropNameInRow="ap_paterno" msprop:Generator_ColumnPropNameInTable="ap_paternoColumn" msprop:Generator_UserColumnName="ap_paterno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_materno" msprop:Generator_ColumnVarNameInTable="columnap_materno" msprop:Generator_ColumnPropNameInRow="ap_materno" msprop:Generator_ColumnPropNameInTable="ap_maternoColumn" msprop:Generator_UserColumnName="ap_materno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="horarios" msprop:Generator_TableClassName="horariosDataTable" msprop:Generator_TableVarName="tablehorarios" msprop:Generator_RowChangedName="horariosRowChanged" msprop:Generator_TablePropName="horarios" msprop:Generator_RowDeletingName="horariosRowDeleting" msprop:Generator_RowChangingName="horariosRowChanging" msprop:Generator_RowEvHandlerName="horariosRowChangeEventHandler" msprop:Generator_RowDeletedName="horariosRowDeleted" msprop:Generator_RowClassName="horariosRow" msprop:Generator_UserTableName="horarios" msprop:Generator_RowEvArgName="horariosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="matricula" msprop:Generator_ColumnVarNameInTable="columnmatricula" msprop:Generator_ColumnPropNameInRow="matricula" msprop:Generator_ColumnPropNameInTable="matriculaColumn" msprop:Generator_UserColumnName="matricula" type="xs:int" />
+              <xs:element name="lunes_e" msprop:Generator_ColumnVarNameInTable="columnlunes_e" msprop:Generator_ColumnPropNameInRow="lunes_e" msprop:Generator_ColumnPropNameInTable="lunes_eColumn" msprop:Generator_UserColumnName="lunes_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="lunes_s" msprop:Generator_ColumnVarNameInTable="columnlunes_s" msprop:Generator_ColumnPropNameInRow="lunes_s" msprop:Generator_ColumnPropNameInTable="lunes_sColumn" msprop:Generator_UserColumnName="lunes_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="martes_e" msprop:Generator_ColumnVarNameInTable="columnmartes_e" msprop:Generator_ColumnPropNameInRow="martes_e" msprop:Generator_ColumnPropNameInTable="martes_eColumn" msprop:Generator_UserColumnName="martes_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="martes_s" msprop:Generator_ColumnVarNameInTable="columnmartes_s" msprop:Generator_ColumnPropNameInRow="martes_s" msprop:Generator_ColumnPropNameInTable="martes_sColumn" msprop:Generator_UserColumnName="martes_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="miercoles_e" msprop:Generator_ColumnVarNameInTable="columnmiercoles_e" msprop:Generator_ColumnPropNameInRow="miercoles_e" msprop:Generator_ColumnPropNameInTable="miercoles_eColumn" msprop:Generator_UserColumnName="miercoles_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="miercoles_s" msprop:Generator_ColumnVarNameInTable="columnmiercoles_s" msprop:Generator_ColumnPropNameInRow="miercoles_s" msprop:Generator_ColumnPropNameInTable="miercoles_sColumn" msprop:Generator_UserColumnName="miercoles_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jueves_e" msprop:Generator_ColumnVarNameInTable="columnjueves_e" msprop:Generator_ColumnPropNameInRow="jueves_e" msprop:Generator_ColumnPropNameInTable="jueves_eColumn" msprop:Generator_UserColumnName="jueves_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jueves_s" msprop:Generator_ColumnVarNameInTable="columnjueves_s" msprop:Generator_ColumnPropNameInRow="jueves_s" msprop:Generator_ColumnPropNameInTable="jueves_sColumn" msprop:Generator_UserColumnName="jueves_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="viernes_e" msprop:Generator_ColumnVarNameInTable="columnviernes_e" msprop:Generator_ColumnPropNameInRow="viernes_e" msprop:Generator_ColumnPropNameInTable="viernes_eColumn" msprop:Generator_UserColumnName="viernes_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="viernes_s" msprop:Generator_ColumnVarNameInTable="columnviernes_s" msprop:Generator_ColumnPropNameInRow="viernes_s" msprop:Generator_ColumnPropNameInTable="viernes_sColumn" msprop:Generator_UserColumnName="viernes_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sabado_e" msprop:Generator_ColumnVarNameInTable="columnsabado_e" msprop:Generator_ColumnPropNameInRow="sabado_e" msprop:Generator_ColumnPropNameInTable="sabado_eColumn" msprop:Generator_UserColumnName="sabado_e" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sabado_s" msprop:Generator_ColumnVarNameInTable="columnsabado_s" msprop:Generator_ColumnPropNameInRow="sabado_s" msprop:Generator_ColumnPropNameInTable="sabado_sColumn" msprop:Generator_UserColumnName="sabado_s" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="alumnos" msprop:Generator_TableClassName="alumnosDataTable" msprop:Generator_TableVarName="tablealumnos" msprop:Generator_RowChangedName="alumnosRowChanged" msprop:Generator_TablePropName="alumnos" msprop:Generator_RowDeletingName="alumnosRowDeleting" msprop:Generator_RowChangingName="alumnosRowChanging" msprop:Generator_RowEvHandlerName="alumnosRowChangeEventHandler" msprop:Generator_RowDeletedName="alumnosRowDeleted" msprop:Generator_RowClassName="alumnosRow" msprop:Generator_UserTableName="alumnos" msprop:Generator_RowEvArgName="alumnosRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="matricula" msprop:Generator_ColumnVarNameInTable="columnmatricula" msprop:Generator_ColumnPropNameInRow="matricula" msprop:Generator_ColumnPropNameInTable="matriculaColumn" msprop:Generator_UserColumnName="matricula" type="xs:int" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_paterno" msprop:Generator_ColumnVarNameInTable="columnap_paterno" msprop:Generator_ColumnPropNameInRow="ap_paterno" msprop:Generator_ColumnPropNameInTable="ap_paternoColumn" msprop:Generator_UserColumnName="ap_paterno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_materno" msprop:Generator_ColumnVarNameInTable="columnap_materno" msprop:Generator_ColumnPropNameInRow="ap_materno" msprop:Generator_ColumnPropNameInTable="ap_maternoColumn" msprop:Generator_UserColumnName="ap_materno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="carrera" msprop:Generator_ColumnVarNameInTable="columncarrera" msprop:Generator_ColumnPropNameInRow="carrera" msprop:Generator_ColumnPropNameInTable="carreraColumn" msprop:Generator_UserColumnName="carrera" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="semestre" msprop:Generator_ColumnVarNameInTable="columnsemestre" msprop:Generator_ColumnPropNameInRow="semestre" msprop:Generator_ColumnPropNameInTable="semestreColumn" msprop:Generator_UserColumnName="semestre" type="xs:int" minOccurs="0" />
+              <xs:element name="tipo_servicio" msprop:Generator_ColumnVarNameInTable="columntipo_servicio" msprop:Generator_ColumnPropNameInRow="tipo_servicio" msprop:Generator_ColumnPropNameInTable="tipo_servicioColumn" msprop:Generator_UserColumnName="tipo_servicio" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="periodo" msprop:Generator_ColumnVarNameInTable="columnperiodo" msprop:Generator_ColumnPropNameInRow="periodo" msprop:Generator_ColumnPropNameInTable="periodoColumn" msprop:Generator_UserColumnName="periodo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="alumnos1" msprop:Generator_TableClassName="alumnos1DataTable" msprop:Generator_TableVarName="tablealumnos1" msprop:Generator_RowChangedName="alumnos1RowChanged" msprop:Generator_TablePropName="alumnos1" msprop:Generator_RowDeletingName="alumnos1RowDeleting" msprop:Generator_RowChangingName="alumnos1RowChanging" msprop:Generator_RowEvHandlerName="alumnos1RowChangeEventHandler" msprop:Generator_RowDeletedName="alumnos1RowDeleted" msprop:Generator_RowClassName="alumnos1Row" msprop:Generator_UserTableName="alumnos1" msprop:Generator_RowEvArgName="alumnos1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="matricula" msprop:Generator_ColumnVarNameInTable="columnmatricula" msprop:Generator_ColumnPropNameInRow="matricula" msprop:Generator_ColumnPropNameInTable="matriculaColumn" msprop:Generator_UserColumnName="matricula" type="xs:int" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_paterno" msprop:Generator_ColumnVarNameInTable="columnap_paterno" msprop:Generator_ColumnPropNameInRow="ap_paterno" msprop:Generator_ColumnPropNameInTable="ap_paternoColumn" msprop:Generator_UserColumnName="ap_paterno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ap_materno" msprop:Generator_ColumnVarNameInTable="columnap_materno" msprop:Generator_ColumnPropNameInRow="ap_materno" msprop:Generator_ColumnPropNameInTable="ap_maternoColumn" msprop:Generator_UserColumnName="ap_materno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tipo_servicio" msprop:Generator_ColumnVarNameInTable="columntipo_servicio" msprop:Generator_ColumnPropNameInRow="tipo_servicio" msprop:Generator_ColumnPropNameInTable="tipo_servicioColumn" msprop:Generator_UserColumnName="tipo_servicio" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Expr1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:alumnos" />
+      <xs:field xpath="mstns:matricula" />
+    </xs:unique>
+    <xs:unique name="alumnos1_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:alumnos1" />
+      <xs:field xpath="mstns:matricula" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
