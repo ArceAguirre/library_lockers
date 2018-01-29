@@ -499,3 +499,44 @@ C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_
 C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
 C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
 C:\Users\FCFM\Desktop\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled
+C:\xampp\htdocs\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\xampp\htdocs\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\xampp\htdocs\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe.config
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.exe
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.pdb
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.exe
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\FCFM Registro Alumnos.pdb
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Design.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\Transitions.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlDataEdition.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlAdvancedSettings.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlData.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlCheckInOut.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlNotifications.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\MetroPanelSlide.Panel.pnlSettings.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Panels.pnlSlider.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.ControlHoras.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.LogIn.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Manager.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Notificaciones.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RegistroHoras.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Menu.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.HorarioAlumno.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.AltaAlumno.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHoras.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptAlumnos.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorarios.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.RptHorasTotales.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.Properties.Resources.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM_Registro_Alumnos.UI_Forms.Settings.resources
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\FCFM Registro Alumnos.csproj.GenerateResource.Cache
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.cache
+C:\Users\FCFM\Documents\SS Arce\library_lockers\FCFM Registros App m\FCFM Registro Alumnos\obj\Debug\RdlCompile.compiled

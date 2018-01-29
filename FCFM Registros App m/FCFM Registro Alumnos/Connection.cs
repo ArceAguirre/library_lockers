@@ -25,7 +25,7 @@ namespace FCFM_Registro_Alumnos
         //    "User ID=" + USER +
         //    ";Password=" + PASSWORD;
 
-        public static string SERVER = "148.234.35.153\\SQLEXPRESS";
+        public static string SERVER = "148.234.35.216\\SQLEXPRESS";
         public static string USER = "sa";
         public static string PASSWORD = "root";
         public static string DATA_BASE = "FCFM Registro Horas";
